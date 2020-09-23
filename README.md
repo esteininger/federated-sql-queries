@@ -19,6 +19,7 @@ $ pip install requirements.txt
 
 4th: query your atlas data lake via SQL
 
-Video demo: [https://www.loom.com/share/485c109f26704c0fb565ae24b1655a57](https://www.loom.com/share/485c109f26704c0fb565ae24b1655a57)
+## Video demo: 
+[https://www.loom.com/share/485c109f26704c0fb565ae24b1655a57](https://www.loom.com/share/485c109f26704c0fb565ae24b1655a57)
 
 
