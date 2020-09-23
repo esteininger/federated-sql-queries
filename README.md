@@ -1,4 +1,5 @@
 # federated-sql-queries
 Demo for federated sql queries across MongoDB &amp; S3 using MongoDB's Atlas Data Lake
 
-![alt text](https://github.com/esteininger/federated-sql-queries/blob/master/assets/architecture.jpg?raw=true)
+![alt text](https://github.com/esteininger/federated-sql-queries/blob/master/assets/architecture.png?raw=true)
+
