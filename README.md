@@ -17,7 +17,7 @@ $ pip install requirements.txt
 
 3rd: output your data to S3 via `out_to_s3.py`
 
-4th: query your atlas data lake via SQL
+4th: query your atlas data lake via SQL using `dl_to_sql.py`
 
 ## Video demo: 
 [https://www.loom.com/share/485c109f26704c0fb565ae24b1655a57](https://www.loom.com/share/485c109f26704c0fb565ae24b1655a57)
